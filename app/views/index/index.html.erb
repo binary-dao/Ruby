@@ -1,0 +1,10 @@
+<country>
+<field zero_x="0" zero_y="0" size_x="60" size_y="60">
+
+
+<% for sq in @sq -%><<%=sq.looks %> id="<%=sq.id%>" x="<%=sq.x%>" y="<%=sq.y%>" process_end="<%=sq.process_end%>"/>
+<%  end %>
+
+</field>
+</country>
+<%= @params %>

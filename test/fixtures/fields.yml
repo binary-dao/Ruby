@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/Fixtures.html
+
+one:
+  type: 
+  id: 1
+  x: 1
+  y: 1
+  process_end: 1
+
+two:
+  type: 
+  id: 1
+  x: 1
+  y: 1
+  process_end: 1
